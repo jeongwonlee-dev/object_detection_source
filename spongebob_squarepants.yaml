@@ -1,0 +1,6 @@
+path: /content/yolov5/data/
+train: images/train
+
+# classes
+nc: 3
+names: ['spongebob', 'squidward', 'patrick']
