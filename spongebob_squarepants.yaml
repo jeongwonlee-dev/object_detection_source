@@ -1,5 +1,7 @@
-path: /content/yolov5/data/
-train: images/train
+path: /content/datasets/spongebob_squarepants
+train: images/train/train
+val: images/train/train
+test:
 
 # classes
 nc: 3
